@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/service/sendMail.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/entity/Employer.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/controlleur/updatemotdepasse.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/web/index.html</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/controlleur/Authentification.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/controlleur/Verfier.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/web/Mpob.jsp</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/util/Util.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/java/IDao/IDao.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/web/Authentification.jsp</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/web/updatemotdepasse.jsp</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/service/ServiceClient.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/service/ServiceEmployer.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/web/Inscription.jsp</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/controlleur/deconnexion.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/controlleur/Inscription.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/config/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/controlleur/Mdob.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/entity/User.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/entity/Client.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/web/welcome.jsp</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/src/java/ma/projet/Test/Test.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/TP_JSP/web/verfier.jsp</file>
+        </group>
+    </open-files>
+</project-private>
