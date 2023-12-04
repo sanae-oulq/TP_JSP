@@ -22,7 +22,7 @@ import javax.mail.internet.MimeMessage;
 public class sendMail {
 
     static final String username = "oulqaidsanae2003@gmail.com";
-    static final String password = "younse-0651451280";
+    static final String password = "y51280";
 
     public static void send(String s,String email) {
         Properties props = new Properties();
